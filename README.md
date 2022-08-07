@@ -1,5 +1,5 @@
 # LaTeX-Writer
-Welcome use * LaTeX Writer *, a full-featured LaTeX editor.
+Welcome use *LaTeX Writer*, a full-featured LaTeX editor.
 
 ![759B869967B0FE923DE4944684ED928E](https://user-images.githubusercontent.com/106484439/183297333-0c7f4233-e969-4e7f-9011-0828fd1c9981.png)
 
